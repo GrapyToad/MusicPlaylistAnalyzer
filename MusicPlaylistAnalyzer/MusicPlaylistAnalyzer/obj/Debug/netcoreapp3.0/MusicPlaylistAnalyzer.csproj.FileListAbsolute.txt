@@ -1,0 +1,11 @@
+/Users/gradytodd/HDD/Projects 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.0/MusicPlaylistAnalyzer
+/Users/gradytodd/HDD/Projects 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.deps.json
+/Users/gradytodd/HDD/Projects 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.runtimeconfig.json
+/Users/gradytodd/HDD/Projects 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.runtimeconfig.dev.json
+/Users/gradytodd/HDD/Projects 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.dll
+/Users/gradytodd/HDD/Projects 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.pdb
+/Users/gradytodd/HDD/Projects 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+/Users/gradytodd/HDD/Projects 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+/Users/gradytodd/HDD/Projects 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.AssemblyInfo.cs
+/Users/gradytodd/HDD/Projects 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.dll
+/Users/gradytodd/HDD/Projects 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.0/MusicPlaylistAnalyzer.pdb

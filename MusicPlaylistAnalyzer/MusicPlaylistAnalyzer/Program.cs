@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace MusicPlaylistAnalyzer
 {
@@ -6,7 +7,10 @@ namespace MusicPlaylistAnalyzer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Song[] songs = new Song[1500];
+            StreamReader sr = new StreamReader("/Users/gradytodd/HDD/Projects 2040/MusicPlaylistAnalyzer");
+            Console.WriteLine(sr.ReadLine());
+
         }
     }
 }
