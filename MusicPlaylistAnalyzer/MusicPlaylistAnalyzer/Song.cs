@@ -21,7 +21,7 @@ namespace MusicPlaylistAnalyzer
             this.size = Convert.ToInt32(si);
             this.time = Convert.ToInt32(ti);
             this.year = Convert.ToInt32(ye);
-            this.year = Convert.ToInt32(pl);
+            this.plays = Convert.ToInt32(pl);
         }
         override public string ToString()
         {
